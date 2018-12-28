@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransCalc", "TransCalc\TransCalc.csproj", "{6B4D5112-AC53-4F51-A02D-32AA2BC3CF3A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2C0ECE02-5380-4E49-9F6F-4954F8B5CEA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransCalcTest", "TransCalcTest\TransCalcTest.csproj", "{6A1AE532-56F9-4BF9-9187-ACA0B4D4D950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4D5112-AC53-4F51-A02D-32AA2BC3CF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4D5112-AC53-4F51-A02D-32AA2BC3CF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4D5112-AC53-4F51-A02D-32AA2BC3CF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4D5112-AC53-4F51-A02D-32AA2BC3CF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A1AE532-56F9-4BF9-9187-ACA0B4D4D950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A1AE532-56F9-4BF9-9187-ACA0B4D4D950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A1AE532-56F9-4BF9-9187-ACA0B4D4D950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A1AE532-56F9-4BF9-9187-ACA0B4D4D950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {417B435E-F823-4673-BD49-A12E6F824BE5}
+	EndGlobalSection
+EndGlobal
