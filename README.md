@@ -16,7 +16,8 @@ MessageBox.Show(calc.RPN);
 Right now this calculator can add, subtract, divide, multiply and process brackets. 
 You can add any operations you want in section of RPN.cs marked with "symbol priority checking", but make sure their priority is correct.
 
-Current priorities:```
+Current priorities:
+```
 high: * /
 low: + −
 the lowest: ( )
